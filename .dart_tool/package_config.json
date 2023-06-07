@@ -135,33 +135,45 @@
     },
     {
       "name": "location_android",
-      "rootUri": "file:///home/aeu/.pub-cache/hosted/pub.dev/location_android-5.0.0-dev.3",
+      "rootUri": "file:///home/aeu/.pub-cache/git/flutter_location_android-a6d90c450a8ed01de6cd1fb8f237988504a4f420/",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "location_ios",
-      "rootUri": "file:///home/aeu/.pub-cache/hosted/pub.dev/location_ios-5.0.0-dev.4",
+      "rootUri": "file:///home/aeu/.pub-cache/git/flutter_location_ios-427e73c8a59949ace02e5b1ff588d0f45fae367e/",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "location_linux",
+      "rootUri": "file:///home/aeu/.pub-cache/git/flutter_location_linux-13b38572aa022202ee00bc0d44372ee5c8d8ed43/",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "location_macos",
-      "rootUri": "file:///home/aeu/.pub-cache/hosted/pub.dev/location_macos-5.0.0-dev.3",
+      "rootUri": "file:///home/aeu/.pub-cache/git/flutter_location_macos-c634e0ed1bc4a0edaafaff30f9e861d94f143d95/",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "location_platform_interface",
-      "rootUri": "file:///home/aeu/.pub-cache/hosted/pub.dev/location_platform_interface-5.0.0-dev.3",
+      "rootUri": "file:///home/aeu/.pub-cache/git/flutter_location_platform_interface-82bdd1d0143e4c15923dbdb9866e31eb74d4edf0/",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "location_web",
-      "rootUri": "file:///home/aeu/.pub-cache/hosted/pub.dev/location_web-5.0.0-dev.3",
+      "rootUri": "file:///home/aeu/.pub-cache/git/flutter_location_web-a6b6b0a5545c012b2a93fb404518460615f70cd3/",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "location_windows",
+      "rootUri": "file:///home/aeu/.pub-cache/git/flutter_location_windows-4362423247698fafe79bb31a6f9221a167b3f097/",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "logging",
@@ -339,9 +351,9 @@
     },
     {
       "name": "very_good_analysis",
-      "rootUri": "file:///home/aeu/.pub-cache/hosted/pub.dev/very_good_analysis-3.1.0",
+      "rootUri": "file:///home/aeu/.pub-cache/hosted/pub.dev/very_good_analysis-5.0.0+1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "vm_service",
@@ -380,7 +392,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-06-07T09:01:00.665Z",
+  "generated": "2023-06-07T09:59:13.288530Z",
   "generator": "pub",
   "generatorVersion": "3.1.0-163.0.dev"
 }

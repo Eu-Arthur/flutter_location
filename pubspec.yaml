@@ -27,19 +27,30 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  location_android: ^5.0.0-dev.3
-  location_ios: ^5.0.0-dev.3
-  # location_linux:
-  #   path: ../location_linux
-  location_macos: ^5.0.0-dev.3
-  location_platform_interface: ^5.0.0-dev.3
-  location_web: ^5.0.0-dev.3
-  # location_windows:
-  #   path: ../location_windows
-
+  location_platform_interface:
+    git:
+      url: https://github.com/Eu-Arthur/flutter_location_platform_interface.git
+  location_android:
+    git:
+      url: https://github.com/Eu-Arthur/flutter_location_android.git
+  location_ios:
+    git:
+      url: https://github.com/Eu-Arthur/flutter_location_ios.git
+  location_linux:
+    git:
+      url: https://github.com/Eu-Arthur/flutter_location_linux.git
+  location_macos:
+    git:
+      url: https://github.com/Eu-Arthur/flutter_location_macos.git
+  location_web:
+    git:
+      url: https://github.com/Eu-Arthur/flutter_location_web.git
+  location_windows:
+    git:
+      url: https://github.com/Eu-Arthur/flutter_location_windows.git
 dev_dependencies:
   flutter_test:
     sdk: flutter
   mocktail: ^0.3.0
-  plugin_platform_interface: ^2.0.0
-  very_good_analysis: ^3.0.0
+  plugin_platform_interface: ^2.1.4
+  very_good_analysis: ^5.0.0+1
